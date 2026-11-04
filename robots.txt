@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /feed/
+
+Sitemap: https://www.tvoyamebel42.ru/sitemap.xml
